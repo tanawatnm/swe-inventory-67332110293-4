@@ -1,7 +1,7 @@
 # SWE Inventory Management - Lab 05 & Lab 04
 
 **รายวิชา:** วิศวกรรมซอฟต์แวร์ในยุค AI (Software Engineering in AI Era)  
-**ชื่อ-นามสกุล:** นายธนวัฒน์ น้ำเง่า (Mr. Tanawat Namngao)  
+**ชื่อ-นามสกุล:** นายธนวัฒน์ นามเหง้า (Mr. Tanawat Namngao)  
 **รหัสนักศึกษา:** 67332110293-4  
 **GitHub Username:** [tanawatnm](https://github.com/tanawatnm)  
 **Primary Repository:** [https://github.com/tanawatnm/swe-inventory-67332110293-4](https://github.com/tanawatnm/swe-inventory-67332110293-4)  
